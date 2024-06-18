@@ -1,0 +1,15 @@
+{
+  "name": "process-feedback-work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "temp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^2.2.0",
+    "dotenv": "^16.4.5"
+  }
+}
