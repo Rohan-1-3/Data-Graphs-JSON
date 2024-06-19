@@ -5,14 +5,14 @@ require('dotenv').config()
 
 // Configure Cloudinary
 cloudinary.config({
-    cloud_name: "fetch-images", // add your cloud_name
-    api_key: process.env.API_KEY, // add your api_key
-    api_secret: process.env.API_SECRET, // add your api_secret
+    cloud_name: "fetch-images",
+    api_key: process.env.API_KEY,
+    api_secret: process.env.API_SECRET,
     secure: true
 });
 
 let result = [];
-const options = { resource_type: "image", folder: "Data Graph MCQs", max_results: 80 };
+const options = { resource_type: "image", folder: "dataGraphImages", max_results: 80 };
 
 // Recursive function to list resources
 function listResources(next_cursor) {
@@ -30,13 +30,15 @@ function listResources(next_cursor) {
         const resources = res.resources;
 
         for (let resource of resources) {
-            const resultTemp = {
-                id: crypto.randomUUID(),
-                name: `Image ${result.length + 1}`,
-                imageUrl: resource.secure_url,
-                description: "This is a a chart for now."
-            };
-            result.push(resultTemp);
+            if(result.length <= 78){
+                const resultTemp = {
+                    id: crypto.randomUUID(),
+                    name: `Image ${result.length + 1}`,
+                    imageUrl: resource.secure_url,
+                    description: "This is a a chart for now."
+                };
+                result.push(resultTemp);
+            }
         }
 
         if (more) {

@@ -1,878 +1,470 @@
 [
   {
-    "id": "7f6aca1f-8be8-4fca-bd82-cf396214802b",
-    "name": "Image 1",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717124/Data%20Graph%20MCQs/ue6waqinpnejckoftkot.png",
+    "id": "5da3f133-33fb-4235-9554-c5eaa4d36ffe",
+    "name": "Bumps Chart",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726992/dataGraphImages/k9aylwjw4mnn3tfbofgp.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "45660f64-9a5d-41a1-8391-80e26a863fea",
-    "name": "Image 2",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717120/Data%20Graph%20MCQs/w25bpxjmorjmuwnbtuwd.png",
+    "id": "b53d908b-ac90-43a0-8eab-9e4a0e777eba",
+    "name": "Stream",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726991/dataGraphImages/flr0f1i16srbhj3vbo5h.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "6d0863f3-a3fb-4f76-acfa-d83adeb91cdb",
-    "name": "Image 3",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717120/Data%20Graph%20MCQs/tr77m2lzjqioz8hwdihz.png",
+    "id": "2276871c-382d-414b-989a-b1d562488fce",
+    "name": "Gannt Chart",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726990/dataGraphImages/ktfhhl2fcadr31vxmswx.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "44811f43-07f0-467a-b794-98084a248063",
-    "name": "Image 4",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717120/Data%20Graph%20MCQs/z7hg4clz27gpupzu2etq.png",
+    "id": "fb913f86-394d-4d6a-bd8f-5413f59448b3",
+    "name": "Network Diagram",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726990/dataGraphImages/ug9qfw110lstbhz0knhx.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "5e6c0754-66f9-4f43-a213-d1a029d85b38",
-    "name": "Image 5",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717098/Data%20Graph%20MCQs/n9ievlwvgmcdz7d40b9g.png",
+    "id": "6f90fda8-59f6-4aa9-a3ce-6ad779b0a48e",
+    "name": "Slope chart",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726990/dataGraphImages/fb7e2zokvjq6rfh3u0qw.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "25836ea5-0d7b-4bbe-8d45-e37f1c0ccd40",
-    "name": "Image 6",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717094/Data%20Graph%20MCQs/ir4mmw2ubqmzu0imuly2.png",
+    "id": "a24d27f5-e311-468f-a467-dbeb6740267b",
+    "name": "Connection Map",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726990/dataGraphImages/zsosbfzqf8jqlypvgbao.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "d9a956c5-eed9-40b3-8383-35db41dfdead",
-    "name": "Image 7",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717094/Data%20Graph%20MCQs/dhlyb3supyzgabqqvch2.png",
+    "id": "a7e3c290-010d-4fb9-bc3f-1c94d08a4359",
+    "name": "Bar (Stacked)",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726990/dataGraphImages/i1lfcxtqpfxjnjylyy5d.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "6961e41f-5c7f-4b7b-bdd3-9d25f16610aa",
-    "name": "Image 8",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717093/Data%20Graph%20MCQs/zzhuxvltkyxdx9kppfs8.png",
+    "id": "699bf732-8c3a-40ee-a755-430ba64a1294",
+    "name": "Bar (Grouped)",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726989/dataGraphImages/wzpfvq09ltn432hch0dk.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "55fa1644-8e8f-4005-a7ea-c349c1cb88af",
-    "name": "Image 9",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717093/Data%20Graph%20MCQs/uovokh3iyeyl1qz5b4ej.png",
+    "id": "bd3926c1-7bd9-4582-8f40-41c8a2bedf84",
+    "name": "Point and Figure",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726989/dataGraphImages/faptfrweiy5dhmjb7gsq.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "b308378a-e7e3-4133-99cc-121b5efc0ea8",
-    "name": "Image 10",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717093/Data%20Graph%20MCQs/vgwzqqzfltcawjtci5sk.png",
+    "id": "93bc669e-54a5-485b-8afe-edfbc9b6155e",
+    "name": "Treemap",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726989/dataGraphImages/jq7yyt2rcw5ae4wnl18f.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "2f4d95c0-755d-4371-807c-afbae1bdb4ff",
-    "name": "Image 11",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717092/Data%20Graph%20MCQs/pxdtipwoo5rr3ajxbnl6.png",
+    "id": "52ca941c-9af9-416d-b932-3e45438facbc",
+    "name": "Stem & leaf",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726988/dataGraphImages/fbzervhicxqaljomac9g.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "868dec77-8f42-4b2f-8657-f9740a821dfc",
-    "name": "Image 12",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717092/Data%20Graph%20MCQs/ekra6osbgb61wnyuquuk.png",
+    "id": "80b21c28-ab86-4529-ae0a-eea51ed116b2",
+    "name": "Venn Diagram",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726988/dataGraphImages/ubgb1yzdaiej4lxm1ptc.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "d35e92a3-0ef7-4367-bb72-a00641f41ecd",
-    "name": "Image 13",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717092/Data%20Graph%20MCQs/byvtqj4g1oowjrtk9s3r.png",
+    "id": "c9414472-4cee-4bbd-9cff-54a8b03e1435",
+    "name": "Sparklines",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726988/dataGraphImages/eg2meszgjmvsbz0eslbr.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "aa04ac7f-3b46-4b41-9a7c-ea4a8b82739e",
-    "name": "Image 14",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717092/Data%20Graph%20MCQs/mrffhcdifw7vdweomqs8.png",
+    "id": "19ea5c09-d0d7-4ea3-bcb8-7ad6fd2dedfb",
+    "name": "Horizon chart",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726987/dataGraphImages/j4ajnqowpayggz5xiqmy.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "dcad2882-59c3-4c77-b34f-095fbf1ed5f1",
-    "name": "Image 15",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717091/Data%20Graph%20MCQs/sjjxrktjvsc2tgfaua22.png",
+    "id": "c55be80e-62c0-4029-b603-4811212692e0",
+    "name": "Violin (grouped)",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726987/dataGraphImages/yrrptxnyncsjc11kyutw.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "d5a4192e-965d-4136-bd9c-9c9372b952e4",
-    "name": "Image 16",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717091/Data%20Graph%20MCQs/q4qybd47mixh3jz7iuap.png",
+    "id": "05f149c9-c36e-4946-ab55-8417aadc3e65",
+    "name": "Bean plot",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726987/dataGraphImages/pxzswvinecfu3inn3fg0.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "9da1cd8a-050c-4e89-8c75-ddce759d83fe",
-    "name": "Image 17",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717091/Data%20Graph%20MCQs/qdhtwf4kdxlgenkpmbmg.png",
+    "id": "7f295a60-e184-41df-a829-6eb8ca895908",
+    "name": "Connected scatter",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726987/dataGraphImages/jqzgtqpcyvstkftjdxql.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "9dc61b6e-302f-4b01-aa67-f747d7c57615",
-    "name": "Image 18",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717090/Data%20Graph%20MCQs/di8ivlhze7cnynlkmh2q.png",
+    "id": "bef07711-5e87-4a58-adf7-1bde2eeb8209",
+    "name": "Sina plot",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726987/dataGraphImages/skbfksnl6w5zdru9s0fr.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "5b109df3-79bc-4117-8e3a-ae8efcb78a2c",
-    "name": "Image 19",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717090/Data%20Graph%20MCQs/psekm6rpq0zj0r2tdxne.png",
+    "id": "927b3b94-ea4a-4388-a8b3-82aca98c2d54",
+    "name": "Rug (dotdash)",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726987/dataGraphImages/zv7pej4pnsfathsbao27.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "47fd2094-5d4a-4f69-a8e8-8920ca195f81",
-    "name": "Image 20",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717090/Data%20Graph%20MCQs/g0ic6jbebfkc5pstehjm.png",
+    "id": "35acc697-38fb-4e87-8cf5-f26df352495d",
+    "name": "Rain Cloud",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726987/dataGraphImages/ab35tkms9eruegartawq.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "15bc23e9-8abd-42f2-bf7c-fb2a475dae41",
-    "name": "Image 21",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717089/Data%20Graph%20MCQs/avnhne9qh6u0prls1yac.png",
+    "id": "fd906ee4-55b7-48e6-9aa0-04f5c6fbb961",
+    "name": "Proportional Area",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726986/dataGraphImages/nzpr3xyaf2ozpaqn4wgf.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "39bf40b8-47d2-4e23-9119-46fb79d10b3d",
-    "name": "Image 22",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717089/Data%20Graph%20MCQs/dbp76uq5ddbkc5zitmzo.png",
+    "id": "fc78b98a-fd61-4fd9-b799-3e17795e3c59",
+    "name": "Bar (floating)",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726985/dataGraphImages/bbriu7pvzknwo7qwskiw.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "e54dd22f-5fc0-4244-bffd-96a79203d1b1",
-    "name": "Image 23",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717089/Data%20Graph%20MCQs/zh3n0aezcswsro3rmijo.png",
+    "id": "b611a88b-2424-40bd-b120-35a6098f1782",
+    "name": " Histogram (unequal bin width)",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726985/dataGraphImages/rnuwxuvhoewnjsetgqj6.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "8a2fd566-e9a5-4c07-8d93-19d0e6064b6f",
-    "name": "Image 24",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717088/Data%20Graph%20MCQs/vbqapyvtr1avzcnykzjd.png",
+    "id": "f2950f29-5f10-4c61-ad3e-65579305806c",
+    "name": "Correlogram",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726985/dataGraphImages/avzpv9ksmmmk8kcj0ke0.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "83e4fa6d-ca61-47d7-9451-b48404193192",
-    "name": "Image 25",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717088/Data%20Graph%20MCQs/gvuqliwypv1gdw5vebtc.png",
+    "id": "876756c8-af2a-4983-a0e9-de99264b12bc",
+    "name": "Swarm plot",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726985/dataGraphImages/zfqmz0ckdvhrnoo50xqt.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "cd1c93f8-2530-4435-8e87-80e065cd9109",
-    "name": "Image 26",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717088/Data%20Graph%20MCQs/wtweezyvqhd0y72g3kxt.png",
+    "id": "aff30315-6931-466d-9105-c73627c060ce",
+    "name": "Boxen plot",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726985/dataGraphImages/wa4wqlzgydvpajjdnvmj.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "05826fd1-dc5f-4dd8-a9c7-529f15609a6e",
-    "name": "Image 27",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717088/Data%20Graph%20MCQs/ed5g5bkcwzflxawcobxc.png",
+    "id": "058fa83e-4063-4484-a41f-a431f5f8b02e",
+    "name": "Worldcloud",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726985/dataGraphImages/qw381zm9vqvnobaexcr8.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "54b4a062-58af-4f95-9a03-cb12a1695407",
-    "name": "Image 28",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717088/Data%20Graph%20MCQs/f1q9wlvqeliihpngdzfl.png",
+    "id": "b350554c-be18-44e8-9d0c-0826a9406223",
+    "name": "Scatter Plot",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726984/dataGraphImages/won2inmj71j10t5kxhmx.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "3fb0b09f-a31e-46c3-aec7-4eb6ba752bf2",
-    "name": "Image 29",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717087/Data%20Graph%20MCQs/qssc36vzj2mkykmwkg3v.png",
+    "id": "992d3581-deb7-4b99-8026-903d527bc29f",
+    "name": "Flow map",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726984/dataGraphImages/idufnq0v8jfgufvlwlfp.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "3da7aa40-18a8-4291-992f-528ffc08df08",
-    "name": "Image 30",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717087/Data%20Graph%20MCQs/l2fwnmcp07mcw6quvlch.png",
+    "id": "cffcb454-a87f-490a-9bb7-1a48e1b2d8fb",
+    "name": "Chord Diagram",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726984/dataGraphImages/vrdyaaxelk6rutoyuvqi.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "8bf445a5-a0e9-402b-8069-0df3124b11bc",
-    "name": "Image 31",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717087/Data%20Graph%20MCQs/honrlqufjtptpfupsox5.png",
+    "id": "e077169e-4296-46c1-ae62-05c64d933c25",
+    "name": "Doughnut Chart",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726983/dataGraphImages/xgcihksoisxlvxkl7aqe.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "60f7323a-0ce4-4d33-94f0-ddca6e16b835",
-    "name": "Image 32",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717087/Data%20Graph%20MCQs/lcyfd53ob9jieb7yewd0.png",
+    "id": "151195a0-5e89-4c80-92db-8786bd162be0",
+    "name": "Hexbin map",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726983/dataGraphImages/rnkitjs5xe29euumlu0j.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "ec29442d-6e0d-499e-ac71-7257e8517100",
-    "name": "Image 33",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717086/Data%20Graph%20MCQs/jdxz6urotkdi0fjvz44h.png",
+    "id": "0f0e2f9d-4161-4d24-8dac-8be4efcd9afc",
+    "name": "Heatmap",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726983/dataGraphImages/gtxmfekkv2zsm48d4exe.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "2ae87040-fe3a-498f-901c-fa80058f0932",
-    "name": "Image 34",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717086/Data%20Graph%20MCQs/frwhk1imldg7t5lodols.png",
+    "id": "e16a5422-bfe0-4409-8072-f39ba53cc342",
+    "name": "Lollipop Graph",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726982/dataGraphImages/sf4qxazc2flnizge8gh9.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "17a3446c-23e2-469e-b915-dfcc8a161dac",
-    "name": "Image 35",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717086/Data%20Graph%20MCQs/xpkihsfrrs8bxjjlnygz.png",
+    "id": "acbd7e37-5555-4d65-8991-beaac11712f2",
+    "name": "Radial Cloud",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726982/dataGraphImages/i2fdqvtpmxzg9mvrkwf7.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "35814715-fe7d-4f92-9ec6-2eff8fdbd5ea",
-    "name": "Image 36",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717085/Data%20Graph%20MCQs/tekd8giwi3hzhtyjn9tj.png",
+    "id": "74a75714-8b7c-4667-843e-2aa88e4bc2cc",
+    "name": "Histogram",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726981/dataGraphImages/iaahfmoycgumclkgkplg.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "e74be09f-9af7-44c6-80b5-a730fd314ac8",
-    "name": "Image 37",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717085/Data%20Graph%20MCQs/nrxxwi5hdfgez0a234x8.png",
+    "id": "ce58bfd7-4119-40f4-a586-adc8e48f4403",
+    "name": "Chord Diagram (non-ribbon)",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726982/dataGraphImages/jalkv87qn7l7uo0k3o5z.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "b1ebd5b3-0c9c-47d6-b816-eb83788068bb",
-    "name": "Image 38",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717085/Data%20Graph%20MCQs/h1hdo6ggfpqox1vt7sqd.png",
+    "id": "82d68a3f-5cdd-49f7-8ace-5a41cc0ee5d8",
+    "name": "Tree Diagram",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726981/dataGraphImages/jxrkpv5vzsxcravdwcjo.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "f7a6cc7e-fc47-4a94-b720-ebffbd9dc1e1",
-    "name": "Image 39",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717084/Data%20Graph%20MCQs/a4j9ukq2reegd6lzc5rn.png",
+    "id": "7c78a4c0-3946-4817-8f60-40e4c375874d",
+    "name": "Bullet chart",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726981/dataGraphImages/a4ps3gdbhmqor91r9iuv.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "d4470ec1-51a4-4c54-9992-f7a18a718e94",
-    "name": "Image 40",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717084/Data%20Graph%20MCQs/r46g7bivfkip4mhhwjy1.png",
+    "id": "e2b137fc-ed54-4f00-b870-b7d945a7b9b8",
+    "name": "Flow chart",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726980/dataGraphImages/iagrjy6xbkdxeqvo8sm9.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "42eb68c8-4346-49c0-bed5-e029d4d50a92",
-    "name": "Image 41",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717084/Data%20Graph%20MCQs/ovuoyoswkruoioyuj6gl.png",
+    "id": "cf2bcca5-ad2d-4f75-a8b9-323444cc11ab",
+    "name": "Cumulative sum ",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726981/dataGraphImages/vescvzgcz3itga36sotd.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "c4c40c50-5793-4b9a-9181-ceda848eaa2a",
-    "name": "Image 42",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717084/Data%20Graph%20MCQs/rcjkhcdqtrjs4wmuwa7a.png",
+    "id": "4dbe61eb-1149-4cbb-a90f-f77dfdab0d0c",
+    "name": "Bar (radial)",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726980/dataGraphImages/lk9mdbqxqtsxuxlupwtv.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "9c0d6006-f9b2-4393-add0-824a7e240967",
-    "name": "Image 43",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717083/Data%20Graph%20MCQs/jqc7iu2lpepwklgs1b8a.png",
+    "id": "19734a7d-304a-4c1b-8a1d-07064c4d0ff9",
+    "name": "Density plot (2D)",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726980/dataGraphImages/nplsicpyszo3imkirxis.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "748b83d0-6b05-4f9e-8ee5-2bc03c2e3b80",
-    "name": "Image 44",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717083/Data%20Graph%20MCQs/pi7qltsf0gkqwifxcpzb.png",
+    "id": "679bda59-3a3a-44d4-99f7-944697c80e5a",
+    "name": "Area (stacked)",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726980/dataGraphImages/ngac3iqn3twfwolc2apg.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "8a0fe034-41a3-4fe1-bd82-4d24a9bcff68",
-    "name": "Image 45",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717083/Data%20Graph%20MCQs/vamrijwqzpbphqfpyb8v.png",
+    "id": "70bffe5d-dd86-4102-934d-1a09110a0dc6",
+    "name": "Candlestick",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726979/dataGraphImages/bxeedjtjxzackwt62g83.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "45851e79-647d-4d4e-9b18-61c0313d238c",
-    "name": "Image 46",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717083/Data%20Graph%20MCQs/kq7mshumrgcthuytl9rb.png",
+    "id": "28fe91c0-13c4-44eb-92b9-4c5ccf7cd5af",
+    "name": "Violin",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726979/dataGraphImages/okwfuq4mbm1gvmarvj95.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "33cce2fe-5502-483a-900b-2f2e7ccdf98f",
-    "name": "Image 47",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717082/Data%20Graph%20MCQs/lawcbjhjnu7tj8ncjx68.png",
+    "id": "8f20596f-81da-4a01-ba53-761c6d8b9ec6",
+    "name": "Spiral chart",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726978/dataGraphImages/qm7ffhbpc0bxcana7ypy.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "636ecdbe-3c7c-43fa-a43a-1efab811ed3e",
-    "name": "Image 48",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717082/Data%20Graph%20MCQs/fm4h4wbhfvccejyi6ttg.png",
+    "id": "d94fc536-dc0f-49d3-8d0a-9f09093f1407",
+    "name": "Error bars",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726978/dataGraphImages/z98pbxkss8te5h1skz1s.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "ebf08490-4b62-46ca-bb69-a45fd9496194",
-    "name": "Image 49",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717082/Data%20Graph%20MCQs/yucq5ggpy8uw3gscmmtf.png",
+    "id": "02468319-453f-43a2-b2ca-7fdcf3d0fe25",
+    "name": "Choropleth map",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726978/dataGraphImages/huzpgpmykqwl3fmrhyef.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "9a697130-9e25-47d1-b886-d5f85e99a191",
-    "name": "Image 50",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717081/Data%20Graph%20MCQs/it5kxttgxkcgnt7qppye.png",
+    "id": "e9d87e6e-d7d1-4cfd-868e-288ff76137ce",
+    "name": "Bubble chart",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726978/dataGraphImages/sgfhiw4o05zpgjf9khk1.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "4b7aecdc-1a38-49ae-8a1f-849951f1d918",
-    "name": "Image 51",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717081/Data%20Graph%20MCQs/pnnaovshkzqkppasui87.png",
+    "id": "8c1a3dc3-62d6-46cb-97c4-1dd62ffc5de8",
+    "name": "Illustration Diagram",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726976/dataGraphImages/pudnkztzceedncxini0u.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "19f0348b-11bc-4ad2-b7c2-6873f720b74f",
-    "name": "Image 52",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717081/Data%20Graph%20MCQs/pvgq68txpitbnhabo9wt.png",
+    "id": "5af8566b-a86a-4058-83a3-7942f0db01da",
+    "name": "Dot Matrix",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726976/dataGraphImages/gwu7jeoi6ysfluix7hkl.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "caadec18-f888-4ea7-9cfb-d172d059d74a",
-    "name": "Image 53",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717081/Data%20Graph%20MCQs/dsjzdaj0rdrpalozebey.png",
+    "id": "29bab526-8056-4e02-8f57-c23f24c075f0",
+    "name": "Cartogram",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726976/dataGraphImages/yeimgfk1y5dnwdwtdvgi.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "400a7960-1208-4772-b5e6-34e2803d6840",
-    "name": "Image 54",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717081/Data%20Graph%20MCQs/hnwlhemnbwn5dvj9hjhs.png",
+    "id": "e0942a66-a400-4ccb-8e6c-a1c65a284b42",
+    "name": "Parallel sets",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726973/dataGraphImages/r1njewxotd9njho77g19.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "7bc5b34e-bb31-4226-888f-938967fbee07",
-    "name": "Image 55",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717080/Data%20Graph%20MCQs/z4gakcrdqotmerapdgav.png",
+    "id": "d7a5164c-2465-4651-8bc7-75f1b6f32e4b",
+    "name": "Arc diagram",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726976/dataGraphImages/ucdpqrance7bq1gclsgr.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "841ba5dc-7ecb-41ef-a9fe-dd470ba15282",
-    "name": "Image 56",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717080/Data%20Graph%20MCQs/pdococxw1d0ytumnya4q.png",
+    "id": "dc957243-055c-4069-b95a-7666c1e12f92",
+    "name": "Q-Q plot",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726975/dataGraphImages/y12orcxl1vpbkpx9h0ul.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "f936d745-865a-46a7-a2d6-ea3774716504",
-    "name": "Image 57",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717080/Data%20Graph%20MCQs/dnskpij5idekvjosi6qy.png",
+    "id": "42614158-b0db-413f-9c85-16b1459b282c",
+    "name": "Nightingale Rose",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726975/dataGraphImages/fofaclmhzcfomjwizynn.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "fed8abba-a231-4018-a830-a6af1bae2834",
-    "name": "Image 58",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717079/Data%20Graph%20MCQs/cb5ttdkvgjgbmpx8s5da.png",
+    "id": "a1489057-8a69-4335-9f34-48e32006db4b",
+    "name": "Density plot",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726975/dataGraphImages/ial94cdzqgryhwkyxzmh.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "3f870e1c-228c-4141-8e2c-add51939dabc",
-    "name": "Image 59",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717079/Data%20Graph%20MCQs/dkja93sfsdcjguftfczn.png",
+    "id": "341432f4-6944-41f8-931f-9a7d792d7848",
+    "name": "Ridgeline",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726974/dataGraphImages/vyen9esjmgdmghq7kzi2.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "92b25354-d1dd-4c3f-b54f-e6944105cbf0",
-    "name": "Image 60",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717079/Data%20Graph%20MCQs/saxmbkn0an515w7wku7g.png",
+    "id": "d9b11818-8525-4e4e-be96-01cb36850db4",
+    "name": "Area Graph",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726974/dataGraphImages/dmpumjlm395odxcjwpfn.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "2c9a6fd7-4d6a-4e82-a921-1911721eaa12",
-    "name": "Image 61",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717079/Data%20Graph%20MCQs/ux5aei9xgpuqpegahega.png",
+    "id": "4e29f57a-2dd7-44a2-91ec-0b0cbc859939",
+    "name": "Pictogram",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726974/dataGraphImages/pw604vjesmfvzovzbdie.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "71e09431-098b-4641-a35e-dad9b0391cf4",
-    "name": "Image 62",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717079/Data%20Graph%20MCQs/awzyos3fpkbjpxjns8lh.png",
+    "id": "c29d95fa-b573-400b-a52f-d3afe396ea9e",
+    "name": "Jittered strip",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726973/dataGraphImages/uqiznwujettpowe5y66g.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "0af22c27-dff0-415c-9a4e-d074d5f5a878",
-    "name": "Image 63",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717079/Data%20Graph%20MCQs/pnttbtnce19bfpjeho4w.png",
+    "id": "1e46fad5-07db-4397-9709-e8d5f7574921",
+    "name": "Circle packing",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726973/dataGraphImages/rtliohhasfuekdgzvg8a.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "d1eb1575-95af-4df9-ba1d-6f4101b34db1",
-    "name": "Image 64",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717078/Data%20Graph%20MCQs/w8csmfdhlidsvdlaudaw.png",
+    "id": "dea322a9-8894-4edc-bee5-ffd9da0795b2",
+    "name": "Pie Chart",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726973/dataGraphImages/vwpcgzqyligf8aqtbmuc.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "3914cddf-b09e-41d9-aa07-b06c2120868a",
-    "name": "Image 65",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717078/Data%20Graph%20MCQs/mejyhzprhv7b4h9sqntz.png",
+    "id": "c5a819cf-7c46-4bef-96ef-d8ac3546e8ec",
+    "name": "Box & whisker",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726971/dataGraphImages/gw4tzhal76e2qx5qaijs.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "2bfcb718-e42a-4e15-8bd4-37ff4924259f",
-    "name": "Image 66",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717078/Data%20Graph%20MCQs/acxfot1lo4zx4oypvaxd.png",
+    "id": "16144111-7185-4186-86b8-6678678324fa",
+    "name": "Population pyramid",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726972/dataGraphImages/meulmnggvcj1hrbk9qud.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "c8ab8981-b1d8-4e6a-97c4-89b988e3e019",
-    "name": "Image 67",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717078/Data%20Graph%20MCQs/lpa0vew6rvkyldwq0oyn.png",
+    "id": "1c1633ed-1f72-4005-b0b6-f4a6e198416a",
+    "name": "Isopleth map",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726971/dataGraphImages/qldaodruffrtetoxavwq.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "afc21aa6-a817-4892-a9dd-bf3a34928e17",
-    "name": "Image 68",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717077/Data%20Graph%20MCQs/znubujiaxby6tf1rtot1.png",
+    "id": "e6fa1c9d-3bef-4567-8fb5-cdf3b3b10e78",
+    "name": "Spider/radar",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726971/dataGraphImages/srwh3svtlg26unllibx5.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "82d74df5-6456-46be-9fe3-06dfd272bd2b",
-    "name": "Image 69",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717077/Data%20Graph%20MCQs/xmpj3jxuylpzde65aqvg.png",
+    "id": "863d3592-8f66-48fe-997c-06335b799dc7",
+    "name": "Kagi Chart",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726971/dataGraphImages/mt4miiuz8ukscl5f1ecv.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "7357c80e-1de2-46f1-83e5-fc599279271b",
-    "name": "Image 70",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717077/Data%20Graph%20MCQs/ac4nmd9knj6iwdhkssw3.png",
+    "id": "1450daf4-6291-4b09-8292-677a1d5399bb",
+    "name": "Parallel Coordinates",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726970/dataGraphImages/agiqjxjct209sberrwqq.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "2ec6da39-2bf8-45e4-945c-6377c0290711",
-    "name": "Image 71",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717077/Data%20Graph%20MCQs/w7d2bsatrmn4gfl94in0.png",
+    "id": "39eba386-261e-410b-9421-55775c6bb6b5",
+    "name": "Sankey Diagram",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726970/dataGraphImages/jm0jgxllfccbbczennw3.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "1f738b12-9aab-4f2e-aacc-2ef721e5b376",
-    "name": "Image 72",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717077/Data%20Graph%20MCQs/thy74mwlgeye2u9qnbn0.png",
+    "id": "46acdb7b-f0f5-40f9-9eb5-475e24e9a528",
+    "name": "Sunburst diagram",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726970/dataGraphImages/jv1mydnlvjytmsxenesd.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "bba6747d-ad54-4864-aa40-6ea6b277ffe7",
-    "name": "Image 73",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717076/Data%20Graph%20MCQs/pmnuelrzg4ycnydiacl3.png",
+    "id": "caa1d9e2-63f3-4dca-915a-cf6e159ca69b",
+    "name": "Tally",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726969/dataGraphImages/fvgg6incinjesoyh2sh6.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "2071e66f-4fcb-4ee3-a1ff-6609a8962d9e",
-    "name": "Image 74",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717076/Data%20Graph%20MCQs/ey3il2cggjuvyb4hkoeg.png",
+    "id": "c3caf394-5e09-42b6-a764-ad4f262c856d",
+    "name": "Bubble map",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726968/dataGraphImages/m5vth2fsk1baykjthx9f.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "44725292-eb8e-41c7-806f-ac9eb8a7ad45",
-    "name": "Image 75",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717076/Data%20Graph%20MCQs/u0o0bwuzztegxrcwwqkh.png",
+    "id": "911915cb-e4fb-4dad-b09a-6ab44b0949a8",
+    "name": "Marrimekko/mosaic",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726969/dataGraphImages/hyccxsfy4uzv4lhz6tll.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "884b73c9-3f24-4856-8599-b75f85e5facd",
-    "name": "Image 76",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717076/Data%20Graph%20MCQs/i3h38txmug2dwacnfwbi.png",
+    "id": "741b211b-1129-4634-9275-70bc3a1afac5",
+    "name": "Bar Diagram",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726968/dataGraphImages/kuo1zp9vizzikcoce87u.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "a4f5fa34-5f92-43bc-b6d1-f81b72e4d556",
-    "name": "Image 77",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717075/Data%20Graph%20MCQs/ctt0xkeemo58pnu3aaiz.png",
+    "id": "e9550a44-568d-4429-830c-738a93d0e641",
+    "name": "Line Plot",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726968/dataGraphImages/p5auseekpzqubnyrqpat.png",
     "description": "This is a a chart for now."
   },
   {
-    "id": "03423ec3-f840-4d71-859b-a5094ecfdb57",
-    "name": "Image 78",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1718717075/Data%20Graph%20MCQs/imz70wioskcgqyitswct.png",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "b44adb58-0ccf-4015-a879-9a5441db4c57",
-    "name": "Image 79",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1714148390/shoppingCart/showroom.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "f85d634e-558c-434b-9274-8080c643173a",
-    "name": "Image 80",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1714047372/shoppingCart/car_small3.avif",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "8c235ec0-da94-4c92-b9ce-ada65a205133",
-    "name": "Image 81",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1714047357/shoppingCart/car_small4.avif",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "626b7a36-b861-4224-a7ca-b86fc4b19261",
-    "name": "Image 82",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1714047353/shoppingCart/car_small1.avif",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "38bebee2-8c73-4abd-8290-4a8384b4d2df",
-    "name": "Image 83",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1714047339/shoppingCart/car_small2.avif",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "4ec39621-8a1a-4502-9a7a-0083261ea4fa",
-    "name": "Image 84",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1714046383/shoppingCart/car2.avif",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "e2e2bcc6-0904-45c1-9e0f-bbf368dcd7de",
-    "name": "Image 85",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1714045816/shoppingCart/car1.avif",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "be8c5a08-ebb9-4556-bb4d-b3fbcc7b9b77",
-    "name": "Image 86",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713866059/shoppingCart/car_gif.gif",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "332bcb98-cd7b-4241-9ca5-4d3eaf14b60d",
-    "name": "Image 87",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713792815/portfolioTemp/cv-builder.png",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "c8186753-88b3-408e-98db-1ef5b87673fe",
-    "name": "Image 88",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713792482/portfolioTemp/pokemon-game.png",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "a32271b5-f27b-4e8a-ad4a-9efde5f2ef30",
-    "name": "Image 89",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713770722/portfolioTemp/calculator.png",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "77d1e59d-9aa4-4ab3-8327-72a0c27d2404",
-    "name": "Image 90",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713766953/portfolioTemp/profile-img.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "cf2aba5d-6104-4061-9c64-ef1fb3442a4f",
-    "name": "Image 91",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713691493/practice/ow1vmqgygu7zgq1dopzz.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "9856194f-f800-45e3-b452-fff2c6df8ec8",
-    "name": "Image 92",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713691181/nwwkozdqy6jjxqljimzl.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "a3828572-fe13-454d-ba42-17e1b168cb09",
-    "name": "Image 93",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713685935/olympic_flag.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "6c2bda55-289a-4d06-841e-c45fed2cbf89",
-    "name": "Image 94",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588447/cld-sample-5.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "3459c21a-1e9d-4195-82c5-288f8f298107",
-    "name": "Image 95",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588447/cld-sample-4.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "dd5140c8-9c88-4a59-9c03-e9a6245f9f15",
-    "name": "Image 96",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588446/cld-sample-3.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "7f4d6ae0-38e9-4e8e-893f-cd24b5350c4c",
-    "name": "Image 97",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588446/cld-sample-2.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "07210c66-9b23-4214-9abe-34d804418ee7",
-    "name": "Image 98",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588445/cld-sample.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "b4e279ae-0dd4-48f6-ad18-821758648e70",
-    "name": "Image 99",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588445/samples/logo.png",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "7a18f2eb-ddb9-4400-a26c-d6efc685e550",
-    "name": "Image 100",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588444/samples/upscale-face-1.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "ce0042a6-8670-46a4-85e5-08d2967eed07",
-    "name": "Image 101",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588444/samples/woman-on-a-football-field.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "87918d22-a0d8-4c66-bcfe-80ffe0e86ef1",
-    "name": "Image 102",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588443/samples/dessert-on-a-plate.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "ae550edc-5a2a-4942-85ed-6ae1832cb5e3",
-    "name": "Image 103",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588443/samples/cup-on-a-table.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "4acd4ff4-ef89-497d-b91a-b7f8e5b3c943",
-    "name": "Image 104",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588442/samples/coffee.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "a432dacb-be3c-46fb-9201-753daf868fa6",
-    "name": "Image 105",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588442/samples/chair.png",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "ea471cbc-ce9e-4b2e-aa83-a2e440055f75",
-    "name": "Image 106",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588442/samples/chair-and-coffee-table.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "da8fa34d-3e23-4308-a31f-d0d691bf2959",
-    "name": "Image 107",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588441/samples/man-portrait.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "7562f1c7-0d94-4224-b9a1-6f8d257b05f1",
-    "name": "Image 108",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588441/samples/man-on-a-street.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "83f2446b-7cca-47a6-808c-693de239e9c8",
-    "name": "Image 109",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588440/samples/man-on-a-escalator.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "18f19249-c9b5-48e0-b3ae-e0c945a32afb",
-    "name": "Image 110",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588440/samples/outdoor-woman.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "aa97ca3c-d38c-4a30-974d-86f2841588ca",
-    "name": "Image 111",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588439/samples/look-up.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "235b2c9c-18f0-4c3c-8140-145a2c0448c0",
-    "name": "Image 112",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588439/samples/breakfast.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "653f27ca-ae9e-48a0-b09c-463726c45abb",
-    "name": "Image 113",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588438/samples/smile.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "12ccd6f2-945d-42ba-b10d-a7f46ab93fe0",
-    "name": "Image 114",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588438/samples/balloons.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "1450336a-dcf7-41db-be8a-78da96c191fa",
-    "name": "Image 115",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588438/samples/shoe.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "a10ced1e-9866-40d9-bfee-c3eba67d27f0",
-    "name": "Image 116",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588437/samples/two-ladies.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "4f25abf9-a908-4c95-8928-e06595568b68",
-    "name": "Image 117",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588426/samples/landscapes/landscape-panorama.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "5ace051a-2efd-4b12-aa2f-3de3b08dfd67",
-    "name": "Image 118",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588426/samples/animals/kitten-playing.gif",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "1973e703-95f1-40c6-9b3c-f78585e2752c",
-    "name": "Image 119",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588425/samples/landscapes/nature-mountains.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "c93f08f9-c42a-49a7-8fdd-b399cda5dd91",
-    "name": "Image 120",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588424/samples/cloudinary-group.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "d7c23b1f-3892-4e39-9494-838ee01f9fbf",
-    "name": "Image 121",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588424/samples/food/spices.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "76562963-b267-4bfa-b4d2-85c91c420f12",
-    "name": "Image 122",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588423/samples/imagecon-group.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "1337e249-d375-4af0-af77-c98c0c0b1e36",
-    "name": "Image 123",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588423/samples/ecommerce/accessories-bag.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "1a2e09d9-d31e-4ced-9ffa-4f1e19b372ef",
-    "name": "Image 124",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588422/samples/ecommerce/leather-bag-gray.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "34b808fe-1cd4-4bba-bdf5-35c1977b4e6b",
-    "name": "Image 125",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588422/samples/ecommerce/car-interior-design.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "770d5a4d-8e46-4311-8df8-0bfd912e7557",
-    "name": "Image 126",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588421/samples/landscapes/beach-boat.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "302794ef-594d-4f5a-9a5c-72f5efe75512",
-    "name": "Image 127",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588421/samples/people/bicycle.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "eccdc9e1-b958-4c58-aaba-9a2d2d7b7888",
-    "name": "Image 128",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588420/samples/landscapes/architecture-signs.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "a618b4a8-e980-4eb0-90f5-0212af25c71b",
-    "name": "Image 129",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588420/samples/animals/three-dogs.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "8e05a949-6dae-4ec6-be73-47af0e2f3c50",
-    "name": "Image 130",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588419/samples/people/jazz.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "e99032bc-2a63-4680-9c43-e76368241286",
-    "name": "Image 131",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588419/samples/people/boy-snow-hoodie.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "0d1657a2-bcb4-4f24-96d9-76cae793d7f0",
-    "name": "Image 132",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588418/samples/bike.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "66e07cc7-4beb-4684-8bbd-b5b748d5707b",
-    "name": "Image 133",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588418/samples/ecommerce/shoes.png",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "a40d0daa-db70-4077-82e7-c7a91bf3e8a9",
-    "name": "Image 134",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588418/samples/landscapes/girl-urban-view.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "6d6ae130-2db7-4452-a107-0294ebf049bb",
-    "name": "Image 135",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588417/samples/people/smiling-man.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "329612f4-ca48-4f82-850a-e6f272c1ec15",
-    "name": "Image 136",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588417/samples/sheep.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "b16a1a10-a3cb-4456-9036-51bb0e7202cf",
-    "name": "Image 137",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588416/samples/food/pot-mussels.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "bf18b665-5d91-4f86-bfb1-c8c949e76803",
-    "name": "Image 138",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588416/samples/food/fish-vegetables.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "96e9d3a1-4335-4523-9239-f31d768962aa",
-    "name": "Image 139",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588416/samples/animals/reindeer.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "d1025e4a-e228-4db1-9abc-71c9df59f85b",
-    "name": "Image 140",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588415/samples/people/kitchen-bar.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "5bd6c558-ddd9-4eff-a28a-0ddce8118fc4",
-    "name": "Image 141",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588415/samples/food/dessert.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "a2ecdd44-9704-4b6d-bbc2-f72fc4d8fc06",
-    "name": "Image 142",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588414/samples/animals/cat.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "2227ca04-489b-4c55-91fc-ebebd2a0a356",
-    "name": "Image 143",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588414/samples/ecommerce/analog-classic.jpg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "448df54e-1b4e-45ec-a790-4770fc2fe5f0",
-    "name": "Image 144",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588413/samples/cloudinary-logo-vector.svg",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "40f4b4e8-2659-4901-99be-58b4d23a0106",
-    "name": "Image 145",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588412/samples/cloudinary-icon.png",
-    "description": "This is a a chart for now."
-  },
-  {
-    "id": "f7b39f1f-1abd-47a3-8b4a-d3e68af6bf84",
-    "name": "Image 146",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/v1713588411/sample.jpg",
+    "id": "394661a1-5bf6-4437-8208-9710b95c0a07",
+    "name": "Open-high-low-close",
+    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726967/dataGraphImages/enpsrfaaayie6hngenen.png",
     "description": "This is a a chart for now."
   }
 ]
