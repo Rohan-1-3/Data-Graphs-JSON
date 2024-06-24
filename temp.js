@@ -34,8 +34,13 @@ function listResources(next_cursor) {
                 const resultTemp = {
                     id: crypto.randomUUID(),
                     name: `Image ${result.length + 1}`,
-                    imageUrl: resource.secure_url,
-                    description: "This is a a chart for now."
+                    images: [
+                        {
+                            url: resource.secure_url,
+                            description: "This is a image description"
+                        }
+                    ],
+                    hint: "This is a a chart for now."
                 };
                 result.push(resultTemp);
             }

@@ -2,469 +2,859 @@
   {
     "id": "5da3f133-33fb-4235-9554-c5eaa4d36ffe",
     "name": "Bumps Chart",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726992/dataGraphImages/k9aylwjw4mnn3tfbofgp.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726992/dataGraphImages/k9aylwjw4mnn3tfbofgp.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "b53d908b-ac90-43a0-8eab-9e4a0e777eba",
     "name": "Stream",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726991/dataGraphImages/flr0f1i16srbhj3vbo5h.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726991/dataGraphImages/flr0f1i16srbhj3vbo5h.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "2276871c-382d-414b-989a-b1d562488fce",
     "name": "Gannt Chart",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726990/dataGraphImages/ktfhhl2fcadr31vxmswx.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726990/dataGraphImages/ktfhhl2fcadr31vxmswx.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "fb913f86-394d-4d6a-bd8f-5413f59448b3",
     "name": "Network Diagram",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726990/dataGraphImages/ug9qfw110lstbhz0knhx.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726990/dataGraphImages/ug9qfw110lstbhz0knhx.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "6f90fda8-59f6-4aa9-a3ce-6ad779b0a48e",
     "name": "Slope chart",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726990/dataGraphImages/fb7e2zokvjq6rfh3u0qw.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726990/dataGraphImages/fb7e2zokvjq6rfh3u0qw.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "a24d27f5-e311-468f-a467-dbeb6740267b",
     "name": "Connection Map",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726990/dataGraphImages/zsosbfzqf8jqlypvgbao.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726990/dataGraphImages/zsosbfzqf8jqlypvgbao.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "a7e3c290-010d-4fb9-bc3f-1c94d08a4359",
     "name": "Bar (Stacked)",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726990/dataGraphImages/i1lfcxtqpfxjnjylyy5d.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726990/dataGraphImages/i1lfcxtqpfxjnjylyy5d.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "699bf732-8c3a-40ee-a755-430ba64a1294",
     "name": "Bar (Grouped)",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726989/dataGraphImages/wzpfvq09ltn432hch0dk.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726989/dataGraphImages/wzpfvq09ltn432hch0dk.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "bd3926c1-7bd9-4582-8f40-41c8a2bedf84",
     "name": "Point and Figure",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726989/dataGraphImages/faptfrweiy5dhmjb7gsq.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726989/dataGraphImages/faptfrweiy5dhmjb7gsq.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "93bc669e-54a5-485b-8afe-edfbc9b6155e",
     "name": "Treemap",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726989/dataGraphImages/jq7yyt2rcw5ae4wnl18f.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726989/dataGraphImages/jq7yyt2rcw5ae4wnl18f.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "52ca941c-9af9-416d-b932-3e45438facbc",
     "name": "Stem & leaf",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726988/dataGraphImages/fbzervhicxqaljomac9g.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726988/dataGraphImages/fbzervhicxqaljomac9g.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "80b21c28-ab86-4529-ae0a-eea51ed116b2",
     "name": "Venn Diagram",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726988/dataGraphImages/ubgb1yzdaiej4lxm1ptc.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726988/dataGraphImages/ubgb1yzdaiej4lxm1ptc.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "c9414472-4cee-4bbd-9cff-54a8b03e1435",
     "name": "Sparklines",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726988/dataGraphImages/eg2meszgjmvsbz0eslbr.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726988/dataGraphImages/eg2meszgjmvsbz0eslbr.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "19ea5c09-d0d7-4ea3-bcb8-7ad6fd2dedfb",
     "name": "Horizon chart",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726987/dataGraphImages/j4ajnqowpayggz5xiqmy.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726987/dataGraphImages/j4ajnqowpayggz5xiqmy.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "c55be80e-62c0-4029-b603-4811212692e0",
     "name": "Violin (grouped)",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726987/dataGraphImages/yrrptxnyncsjc11kyutw.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726987/dataGraphImages/yrrptxnyncsjc11kyutw.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "05f149c9-c36e-4946-ab55-8417aadc3e65",
     "name": "Bean plot",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726987/dataGraphImages/pxzswvinecfu3inn3fg0.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726987/dataGraphImages/pxzswvinecfu3inn3fg0.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "7f295a60-e184-41df-a829-6eb8ca895908",
     "name": "Connected scatter",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726987/dataGraphImages/jqzgtqpcyvstkftjdxql.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726987/dataGraphImages/jqzgtqpcyvstkftjdxql.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "bef07711-5e87-4a58-adf7-1bde2eeb8209",
     "name": "Sina plot",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726987/dataGraphImages/skbfksnl6w5zdru9s0fr.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726987/dataGraphImages/skbfksnl6w5zdru9s0fr.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "927b3b94-ea4a-4388-a8b3-82aca98c2d54",
     "name": "Rug (dotdash)",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726987/dataGraphImages/zv7pej4pnsfathsbao27.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726987/dataGraphImages/zv7pej4pnsfathsbao27.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "35acc697-38fb-4e87-8cf5-f26df352495d",
     "name": "Rain Cloud",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726987/dataGraphImages/ab35tkms9eruegartawq.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726987/dataGraphImages/ab35tkms9eruegartawq.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "fd906ee4-55b7-48e6-9aa0-04f5c6fbb961",
     "name": "Proportional Area",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726986/dataGraphImages/nzpr3xyaf2ozpaqn4wgf.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726986/dataGraphImages/nzpr3xyaf2ozpaqn4wgf.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "fc78b98a-fd61-4fd9-b799-3e17795e3c59",
     "name": "Bar (floating)",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726985/dataGraphImages/bbriu7pvzknwo7qwskiw.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726985/dataGraphImages/bbriu7pvzknwo7qwskiw.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "b611a88b-2424-40bd-b120-35a6098f1782",
     "name": " Histogram (unequal bin width)",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726985/dataGraphImages/rnuwxuvhoewnjsetgqj6.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726985/dataGraphImages/rnuwxuvhoewnjsetgqj6.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "f2950f29-5f10-4c61-ad3e-65579305806c",
     "name": "Correlogram",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726985/dataGraphImages/avzpv9ksmmmk8kcj0ke0.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726985/dataGraphImages/avzpv9ksmmmk8kcj0ke0.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "876756c8-af2a-4983-a0e9-de99264b12bc",
     "name": "Swarm plot",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726985/dataGraphImages/zfqmz0ckdvhrnoo50xqt.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726985/dataGraphImages/zfqmz0ckdvhrnoo50xqt.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "aff30315-6931-466d-9105-c73627c060ce",
     "name": "Boxen plot",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726985/dataGraphImages/wa4wqlzgydvpajjdnvmj.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726985/dataGraphImages/wa4wqlzgydvpajjdnvmj.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "058fa83e-4063-4484-a41f-a431f5f8b02e",
     "name": "Worldcloud",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726985/dataGraphImages/qw381zm9vqvnobaexcr8.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726985/dataGraphImages/qw381zm9vqvnobaexcr8.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "b350554c-be18-44e8-9d0c-0826a9406223",
     "name": "Scatter Plot",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726984/dataGraphImages/won2inmj71j10t5kxhmx.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726984/dataGraphImages/won2inmj71j10t5kxhmx.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "992d3581-deb7-4b99-8026-903d527bc29f",
     "name": "Flow map",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726984/dataGraphImages/idufnq0v8jfgufvlwlfp.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726984/dataGraphImages/idufnq0v8jfgufvlwlfp.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "cffcb454-a87f-490a-9bb7-1a48e1b2d8fb",
     "name": "Chord Diagram",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726984/dataGraphImages/vrdyaaxelk6rutoyuvqi.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726984/dataGraphImages/vrdyaaxelk6rutoyuvqi.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "e077169e-4296-46c1-ae62-05c64d933c25",
     "name": "Doughnut Chart",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726983/dataGraphImages/xgcihksoisxlvxkl7aqe.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726983/dataGraphImages/xgcihksoisxlvxkl7aqe.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "151195a0-5e89-4c80-92db-8786bd162be0",
     "name": "Hexbin map",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726983/dataGraphImages/rnkitjs5xe29euumlu0j.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726983/dataGraphImages/rnkitjs5xe29euumlu0j.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "0f0e2f9d-4161-4d24-8dac-8be4efcd9afc",
     "name": "Heatmap",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726983/dataGraphImages/gtxmfekkv2zsm48d4exe.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726983/dataGraphImages/gtxmfekkv2zsm48d4exe.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "e16a5422-bfe0-4409-8072-f39ba53cc342",
     "name": "Lollipop Graph",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726982/dataGraphImages/sf4qxazc2flnizge8gh9.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726982/dataGraphImages/sf4qxazc2flnizge8gh9.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "acbd7e37-5555-4d65-8991-beaac11712f2",
     "name": "Radial Cloud",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726982/dataGraphImages/i2fdqvtpmxzg9mvrkwf7.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726982/dataGraphImages/i2fdqvtpmxzg9mvrkwf7.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "74a75714-8b7c-4667-843e-2aa88e4bc2cc",
     "name": "Histogram",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726981/dataGraphImages/iaahfmoycgumclkgkplg.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726981/dataGraphImages/iaahfmoycgumclkgkplg.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "ce58bfd7-4119-40f4-a586-adc8e48f4403",
     "name": "Chord Diagram (non-ribbon)",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726982/dataGraphImages/jalkv87qn7l7uo0k3o5z.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726982/dataGraphImages/jalkv87qn7l7uo0k3o5z.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "82d68a3f-5cdd-49f7-8ace-5a41cc0ee5d8",
     "name": "Tree Diagram",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726981/dataGraphImages/jxrkpv5vzsxcravdwcjo.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726981/dataGraphImages/jxrkpv5vzsxcravdwcjo.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "7c78a4c0-3946-4817-8f60-40e4c375874d",
     "name": "Bullet chart",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726981/dataGraphImages/a4ps3gdbhmqor91r9iuv.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726981/dataGraphImages/a4ps3gdbhmqor91r9iuv.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "e2b137fc-ed54-4f00-b870-b7d945a7b9b8",
     "name": "Flow chart",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726980/dataGraphImages/iagrjy6xbkdxeqvo8sm9.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726980/dataGraphImages/iagrjy6xbkdxeqvo8sm9.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "cf2bcca5-ad2d-4f75-a8b9-323444cc11ab",
     "name": "Cumulative sum ",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726981/dataGraphImages/vescvzgcz3itga36sotd.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726981/dataGraphImages/vescvzgcz3itga36sotd.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "4dbe61eb-1149-4cbb-a90f-f77dfdab0d0c",
     "name": "Bar (radial)",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726980/dataGraphImages/lk9mdbqxqtsxuxlupwtv.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726980/dataGraphImages/lk9mdbqxqtsxuxlupwtv.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "19734a7d-304a-4c1b-8a1d-07064c4d0ff9",
     "name": "Density plot (2D)",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726980/dataGraphImages/nplsicpyszo3imkirxis.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726980/dataGraphImages/nplsicpyszo3imkirxis.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "679bda59-3a3a-44d4-99f7-944697c80e5a",
     "name": "Area (stacked)",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726980/dataGraphImages/ngac3iqn3twfwolc2apg.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726980/dataGraphImages/ngac3iqn3twfwolc2apg.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "70bffe5d-dd86-4102-934d-1a09110a0dc6",
     "name": "Candlestick",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726979/dataGraphImages/bxeedjtjxzackwt62g83.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726979/dataGraphImages/bxeedjtjxzackwt62g83.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "28fe91c0-13c4-44eb-92b9-4c5ccf7cd5af",
     "name": "Violin",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726979/dataGraphImages/okwfuq4mbm1gvmarvj95.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726979/dataGraphImages/okwfuq4mbm1gvmarvj95.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "8f20596f-81da-4a01-ba53-761c6d8b9ec6",
     "name": "Spiral chart",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726978/dataGraphImages/qm7ffhbpc0bxcana7ypy.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726978/dataGraphImages/qm7ffhbpc0bxcana7ypy.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "d94fc536-dc0f-49d3-8d0a-9f09093f1407",
     "name": "Error bars",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726978/dataGraphImages/z98pbxkss8te5h1skz1s.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726978/dataGraphImages/z98pbxkss8te5h1skz1s.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "02468319-453f-43a2-b2ca-7fdcf3d0fe25",
     "name": "Choropleth map",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726978/dataGraphImages/huzpgpmykqwl3fmrhyef.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726978/dataGraphImages/huzpgpmykqwl3fmrhyef.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "e9d87e6e-d7d1-4cfd-868e-288ff76137ce",
     "name": "Bubble chart",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726978/dataGraphImages/sgfhiw4o05zpgjf9khk1.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726978/dataGraphImages/sgfhiw4o05zpgjf9khk1.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "8c1a3dc3-62d6-46cb-97c4-1dd62ffc5de8",
     "name": "Illustration Diagram",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726976/dataGraphImages/pudnkztzceedncxini0u.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726976/dataGraphImages/pudnkztzceedncxini0u.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "5af8566b-a86a-4058-83a3-7942f0db01da",
     "name": "Dot Matrix",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726976/dataGraphImages/gwu7jeoi6ysfluix7hkl.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726976/dataGraphImages/gwu7jeoi6ysfluix7hkl.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "29bab526-8056-4e02-8f57-c23f24c075f0",
     "name": "Cartogram",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726976/dataGraphImages/yeimgfk1y5dnwdwtdvgi.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726976/dataGraphImages/yeimgfk1y5dnwdwtdvgi.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "e0942a66-a400-4ccb-8e6c-a1c65a284b42",
     "name": "Parallel sets",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726973/dataGraphImages/r1njewxotd9njho77g19.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726973/dataGraphImages/r1njewxotd9njho77g19.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "d7a5164c-2465-4651-8bc7-75f1b6f32e4b",
     "name": "Arc diagram",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726976/dataGraphImages/ucdpqrance7bq1gclsgr.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726976/dataGraphImages/ucdpqrance7bq1gclsgr.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "dc957243-055c-4069-b95a-7666c1e12f92",
     "name": "Q-Q plot",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726975/dataGraphImages/y12orcxl1vpbkpx9h0ul.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726975/dataGraphImages/y12orcxl1vpbkpx9h0ul.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "42614158-b0db-413f-9c85-16b1459b282c",
     "name": "Nightingale Rose",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726975/dataGraphImages/fofaclmhzcfomjwizynn.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726975/dataGraphImages/fofaclmhzcfomjwizynn.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "a1489057-8a69-4335-9f34-48e32006db4b",
     "name": "Density plot",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726975/dataGraphImages/ial94cdzqgryhwkyxzmh.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726975/dataGraphImages/ial94cdzqgryhwkyxzmh.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "341432f4-6944-41f8-931f-9a7d792d7848",
     "name": "Ridgeline",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726974/dataGraphImages/vyen9esjmgdmghq7kzi2.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726974/dataGraphImages/vyen9esjmgdmghq7kzi2.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "d9b11818-8525-4e4e-be96-01cb36850db4",
     "name": "Area Graph",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726974/dataGraphImages/dmpumjlm395odxcjwpfn.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726974/dataGraphImages/dmpumjlm395odxcjwpfn.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "4e29f57a-2dd7-44a2-91ec-0b0cbc859939",
     "name": "Pictogram",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726974/dataGraphImages/pw604vjesmfvzovzbdie.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726974/dataGraphImages/pw604vjesmfvzovzbdie.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "c29d95fa-b573-400b-a52f-d3afe396ea9e",
     "name": "Jittered strip",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726973/dataGraphImages/uqiznwujettpowe5y66g.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726973/dataGraphImages/uqiznwujettpowe5y66g.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "1e46fad5-07db-4397-9709-e8d5f7574921",
     "name": "Circle packing",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726973/dataGraphImages/rtliohhasfuekdgzvg8a.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726973/dataGraphImages/rtliohhasfuekdgzvg8a.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "dea322a9-8894-4edc-bee5-ffd9da0795b2",
     "name": "Pie Chart",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726973/dataGraphImages/vwpcgzqyligf8aqtbmuc.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726973/dataGraphImages/vwpcgzqyligf8aqtbmuc.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "c5a819cf-7c46-4bef-96ef-d8ac3546e8ec",
     "name": "Box & whisker",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726971/dataGraphImages/gw4tzhal76e2qx5qaijs.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726971/dataGraphImages/gw4tzhal76e2qx5qaijs.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "16144111-7185-4186-86b8-6678678324fa",
     "name": "Population pyramid",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726972/dataGraphImages/meulmnggvcj1hrbk9qud.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726972/dataGraphImages/meulmnggvcj1hrbk9qud.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "1c1633ed-1f72-4005-b0b6-f4a6e198416a",
     "name": "Isopleth map",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726971/dataGraphImages/qldaodruffrtetoxavwq.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726971/dataGraphImages/qldaodruffrtetoxavwq.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "e6fa1c9d-3bef-4567-8fb5-cdf3b3b10e78",
     "name": "Spider/radar",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726971/dataGraphImages/srwh3svtlg26unllibx5.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726971/dataGraphImages/srwh3svtlg26unllibx5.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "863d3592-8f66-48fe-997c-06335b799dc7",
     "name": "Kagi Chart",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726971/dataGraphImages/mt4miiuz8ukscl5f1ecv.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726971/dataGraphImages/mt4miiuz8ukscl5f1ecv.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "1450daf4-6291-4b09-8292-677a1d5399bb",
     "name": "Parallel Coordinates",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726970/dataGraphImages/agiqjxjct209sberrwqq.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726970/dataGraphImages/agiqjxjct209sberrwqq.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "39eba386-261e-410b-9421-55775c6bb6b5",
     "name": "Sankey Diagram",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726970/dataGraphImages/jm0jgxllfccbbczennw3.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726970/dataGraphImages/jm0jgxllfccbbczennw3.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "46acdb7b-f0f5-40f9-9eb5-475e24e9a528",
     "name": "Sunburst diagram",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726970/dataGraphImages/jv1mydnlvjytmsxenesd.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726970/dataGraphImages/jv1mydnlvjytmsxenesd.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "caa1d9e2-63f3-4dca-915a-cf6e159ca69b",
     "name": "Tally",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726969/dataGraphImages/fvgg6incinjesoyh2sh6.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726969/dataGraphImages/fvgg6incinjesoyh2sh6.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "c3caf394-5e09-42b6-a764-ad4f262c856d",
     "name": "Bubble map",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726968/dataGraphImages/m5vth2fsk1baykjthx9f.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726968/dataGraphImages/m5vth2fsk1baykjthx9f.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "911915cb-e4fb-4dad-b09a-6ab44b0949a8",
     "name": "Marrimekko/mosaic",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726969/dataGraphImages/hyccxsfy4uzv4lhz6tll.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726969/dataGraphImages/hyccxsfy4uzv4lhz6tll.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "741b211b-1129-4634-9275-70bc3a1afac5",
     "name": "Bar Diagram",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726968/dataGraphImages/kuo1zp9vizzikcoce87u.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726968/dataGraphImages/kuo1zp9vizzikcoce87u.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "e9550a44-568d-4429-830c-738a93d0e641",
     "name": "Line Plot",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726968/dataGraphImages/p5auseekpzqubnyrqpat.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726968/dataGraphImages/p5auseekpzqubnyrqpat.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   },
   {
     "id": "394661a1-5bf6-4437-8208-9710b95c0a07",
     "name": "Open-high-low-close",
-    "imageUrl": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726967/dataGraphImages/enpsrfaaayie6hngenen.png",
-    "description": "This is a a chart for now."
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/fetch-images/image/upload/f_auto,q_auto/v1718726967/dataGraphImages/enpsrfaaayie6hngenen.png",
+        "description": "This is the description of the image."
+        }
+      ],
+    "hint": "This is a a chart for now."
   }
 ]
